@@ -1,0 +1,40 @@
+.link{
+    list-style-type: none ;
+    background-color: pink;
+    width: 100vw;
+    color:rgb(6, 36, 48);
+    height: 7vh;
+    margin: 0px;
+    position: fixed;
+}
+
+a{
+    text-transform: uppercase;
+    font-size: large;
+    text-decoration:none; 
+    color: rgb(44, 43, 43);
+}
+li{
+    display: inline;
+    padding: 2.5vh 25px;
+    min-height: 10vh;
+    max-height: 10vh;
+    float: left;
+    
+}
+.part{
+    min-height: 100vh;
+}
+#main{
+    background-color: pink;
+    width: 100vw;
+}
+#pic{
+    height: 275px;
+    width: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    float: right;
+}
